@@ -1,3 +1,4 @@
+Aqui vai uma alteracao no conteúdo
 "concat('redirect 301')"	"concat('/portal/asn--portugu/',cast(b.id as char),'',b.alias)"	"concat('http://noticias.adventistas.org/pt/?p=',cast(a.id as char))"
 "redirect 301"	/portal/asn--portugu/29sedes-regionais	http://noticias.adventistas.org/pt/?p=20598
 "redirect 301"	/portal/asn--portugu/4675encontro-so-para-meninas-orienta-adolescentes-em-tocantins	http://noticias.adventistas.org/pt/?p=14186
