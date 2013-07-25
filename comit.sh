@@ -7,4 +7,4 @@ git add .gitignore
 
 git commit -m "Data do commit: $data"
 
-git push
+git push -u origin master
